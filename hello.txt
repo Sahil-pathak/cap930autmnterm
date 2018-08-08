@@ -1,1 +1,3 @@
-hello world
+1. when we add any file from local machine to git repository is called push operation and opposite(downloading) will be pull operation.
+2. Python is an extensive language,high level .
+3. .py is extension
