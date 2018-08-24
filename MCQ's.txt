@@ -1,9 +1,0 @@
-1. when we add any file from local machine to git repository is called push operation and opposite(downloading) will be pull operation.
-2. to clear screen import os and them os.system('cls')
-3. none is a keyword in python
-4. 9/3 = 3.0 but 9//3 =3
-5. True and False is a keyword
-6. bool os a subtype of int
-7. no char in python by default it follows unicode
-8. List is hetrogenous datastructure (Different datatypes)
-9. List can be nested.
